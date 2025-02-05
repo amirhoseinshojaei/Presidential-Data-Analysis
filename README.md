@@ -36,7 +36,7 @@ This project is focused on cleaning, transforming, and analyzing a dataset of US
 - Excel Formulas: `TRIM`, `PROPER`, `TEXT`, `NETWORKDAYS`
   
 ## Dashboard Preview:
-![Dashboard Preview](path_to_dashboard_image.jpg)
+![Dashboard Preview](https://github.com/amirhoseinshojaei/Presidential-Data-Analysis/blob/main/Screenshot%20(32).png)
 
 ## Conclusion:
 This project demonstrates how data cleaning, transformation, and analysis can be applied to a dataset to extract valuable insights. The final result is a dynamic dashboard that presents the data in a meaningful and easily accessible format.
